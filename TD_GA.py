@@ -1,19 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jul 12 14:33:13 2020
-
-@author: peina
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Sun Feb  2 12:13:34 2020
 
 @author: peina
 """
 import numpy as np
 from math import sin, pi
-from statistics import mean 
 import matplotlib.pyplot as plt
 
 
