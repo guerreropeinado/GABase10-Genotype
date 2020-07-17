@@ -1,7 +1,5 @@
 import numpy as np
 from math import  pi
-import matplotlib.pyplot as plt
-
 
 def f(x):
     return (x*np.sin(6*pi*x)) #Function being optimized
